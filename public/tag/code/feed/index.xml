@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>code - Nutthaphat Piasangka</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another Nutthaphat Piasangka site</description>
+	<lastBuildDate>Thu, 06 Jan 2022 17:31:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/01/cropped-unnamed-32x32.webp</url>
+	<title>code - Nutthaphat Piasangka</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HTML คืออะไร?</title>
+		<link>./../../../2022/01/06/html-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/index.html</link>
+					<comments>./../../../2022/01/06/html-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[n-devs]]></dc:creator>
+		<pubDate>Thu, 06 Jan 2022 16:21:22 +0000</pubDate>
+				<category><![CDATA[html]]></category>
+		<category><![CDATA[code]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=886</guid>
+
+					<description><![CDATA[<p>HTML ย่อมาจาก Hyper Text Markup Language HTML เป็นภาษามาร์กอัปมาตรฐานสำหรับการสร้างเว็บเพจ HTML อธิบายโครงสร้างของเว็บเพจ HTML ประกอบด้วยชุดขององค์ประกอบ องค์ประกอบ HTML บอกเบราว์เซอร์ถึงวิธีการแสดงเนื้อหา องค์ประกอบ HTML ติดป้ายกำกับชิ้นส่วนของเนื้อหา เช่น &#8220;นี่คือส่วนหัว&#8221; &#8220;นี่คือย่อหน้า&#8221; &#8220;นี่คือลิงก์&#8221; เป็นต้น ตัวอย่าง HTML...</p>
+<p>The post <a href="./../../../2022/01/06/html-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/index.html">HTML คืออะไร?</a> first appeared on <a href="./../../../index.html">Nutthaphat Piasangka</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="886" class="elementor elementor-886" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-d7d0062 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d7d0062" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-649d4dd" data-id="649d4dd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1ff7915 elementor-widget elementor-widget-text-editor" data-id="1ff7915" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<ul>
+<li><span>HTML ย่อมาจาก Hyper Text Markup Language</span></li>
+<li><span>HTML เป็นภาษามาร์กอัปมาตรฐานสำหรับการสร้างเว็บเพจ</span></li>
+<li><span><span class="">HTML อธิบายโครงสร้างของเว็บเพจ</span></span></li>
+<li><span>HTML ประกอบด้วยชุดขององค์ประกอบ</span></li>
+<li><span>องค์ประกอบ HTML บอกเบราว์เซอร์ถึงวิธีการแสดงเนื้อหา</span></li>
+<li><span>องค์ประกอบ HTML ติดป้ายกำกับชิ้นส่วนของเนื้อหา เช่น &#8220;นี่คือส่วนหัว&#8221; &#8220;นี่คือย่อหน้า&#8221; &#8220;นี่คือลิงก์&#8221; เป็นต้น</span></li>
+</ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b16124f elementor-widget elementor-widget-spacer" data-id="b16124f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5dddb50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dddb50" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ba9b264" data-id="ba9b264" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e4f98b1 elementor-widget elementor-widget-heading" data-id="e4f98b1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">ตัวอย่าง HTML Document</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-13afa3e elementor-widget elementor-widget-code-highlight" data-id="13afa3e" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-okaidia copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-html line-numbers">
+				<code readonly="true" class="language-html">
+					<xmp><!DOCTYPE html>
+<html>
+
+<head>
+      <title>Page Title</title>
+</head>
+
+<body>
+
+      <h1>My First Heading</h1>
+      <p>My first paragraph.</p>
+
+</body>
+
+</html></xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-eba090d elementor-widget elementor-widget-spacer" data-id="eba090d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2e74d2c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e74d2c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43b7603" data-id="43b7603" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c505aa5 elementor-widget elementor-widget-heading" data-id="c505aa5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">อธิบาย ตัวอย่าง ข้างต้น</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-51d58a7 elementor-widget elementor-widget-text-editor" data-id="51d58a7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul><li><code class="w3-codespan">&lt;!DOCTYPE html&gt;</code><span>ประกาศกำหนดว่าเอกสารฉบับนี้เป็นเอกสาร HTML5</span></li><li><code class="w3-codespan">&lt;html&gt;</code><span>องค์ประกอบคือองค์ประกอบหลักของหน้า HTML นั้น</span></li><li><code class="w3-codespan">&lt;head&gt;</code><span>องค์ประกอบมีข้อมูลเกี่ยวกับเมตาหน้า HTML</span></li><li><code class="w3-codespan">&lt;title&gt;</code><span>องค์ประกอบระบุชื่อสำหรับหน้า HTML (ซึ่งจะแสดงในแถบชื่อเบราว์เซอร์หรือในแท็บหน้าเว็บ)</span></li><li><code class="w3-codespan">&lt;body&gt;</code><span>องค์ประกอบกำหนดร่างกายของเอกสารและเป็นภาชนะสำหรับทุกเนื้อหาที่มองเห็นได้เช่นหัวย่อหน้าภาพเชื่อมโยงหลายมิติตาราง, รายการ, ฯลฯ</span></li><li><code class="w3-codespan">&lt;h1&gt;</code><span>องค์ประกอบกำหนดหัวข้อที่มีขนาดใหญ่</span></li><li><code class="w3-codespan">&lt;p&gt;</code><span>องค์ประกอบกำหนดย่อหน้า</span></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d506d7d elementor-widget elementor-widget-spacer" data-id="d506d7d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ea62588 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea62588" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-87d19e9" data-id="87d19e9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6b3eca0 elementor-widget elementor-widget-heading" data-id="6b3eca0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">องค์ประกอบ HTML คืออะไร?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6af8ec0 elementor-widget elementor-widget-text-editor" data-id="6af8ec0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span><span class="">องค์ประกอบ HTML ถูกกำหนดโดยแท็กเริ่มต้น เนื้อหาบางส่วน และแท็กปิดท้าย:</span></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-782458f elementor-widget elementor-widget-code-highlight" data-id="782458f" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-okaidia copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-html line-numbers">
+				<code readonly="true" class="language-html">
+					<xmp><tagname>Content goes here...</tagname></xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-aac95c4 elementor-widget elementor-widget-text-editor" data-id="aac95c4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong><span><span class="goog-text-highlight">องค์ประกอบ</span></span></strong><span><span class="goog-text-highlight"> HTML </span><span class="goog-text-highlight">เป็นทุกอย่างตั้งแต่แท็กเริ่มต้นจนถึงแท็กปิด:</span></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-07e5047 elementor-widget elementor-widget-code-highlight" data-id="07e5047" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-okaidia copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-html line-numbers">
+				<code readonly="true" class="language-html">
+					<xmp><h1>My First Heading</h1>
+
+<p> My first paragraph.</p>
+</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-10e5907 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="10e5907" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-19d97d0" data-id="19d97d0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-19c2e22 elementor-drop-cap-yes elementor-drop-cap-view-default elementor-widget elementor-widget-text-editor" data-id="19c2e22" data-element_type="widget" data-settings="{&quot;drop_cap&quot;:&quot;yes&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #999999;"><em><strong><span class="goog-text-highlight">หมายเหตุ:</span></strong><span class="goog-text-highlight">องค์ประกอบ HTML บางรายการไม่มีเนื้อหา (เช่น องค์ประกอบ) </span>องค์ประกอบเหล่านี้เรียกว่าองค์ประกอบที่ว่างเปล่า องค์ประกอบที่ว่างเปล่าไม่มีแท็กปิดท้าย!</em></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9264f0d elementor-widget elementor-widget-spacer" data-id="9264f0d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9348466 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9348466" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79efd0d" data-id="79efd0d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4a71957 elementor-widget elementor-widget-heading" data-id="4a71957" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Web Browsers</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f295443 elementor-widget elementor-widget-text-editor" data-id="f295443" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span>จุดประสงค์ของเว็บเบราว์เซอร์ (Chrome, Edge, Firefox, Safari) คือการอ่านเอกสาร HTML และแสดงผลอย่างถูกต้อง</span></p><p><span><span class="">เบราว์เซอร์ไม่แสดงแท็ก HTML แต่ใช้เพื่อกำหนดวิธีแสดงเอกสาร:</span></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-584c1ac elementor-widget elementor-widget-image" data-id="584c1ac" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="https://www.w3schools.com/html/img_chrome.png" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-af8f8f5 elementor-widget elementor-widget-spacer" data-id="af8f8f5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-26a2f1c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="26a2f1c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ca9bc2" data-id="5ca9bc2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-10185f5 elementor-widget elementor-widget-heading" data-id="10185f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">โครงสร้าง HTML
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a30d4db elementor-widget elementor-widget-text-editor" data-id="a30d4db" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span><span class="goog-text-highlight">ด้านล่างนี้คือการแสดงภาพโครงสร้างหน้า HTML:</span></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-30b9b17 elementor-widget elementor-widget-shortcode" data-id="30b9b17" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><div style="width:99%;border:1px solid grey;padding:3px;margin:0;">&lt;html&gt;
+<div style="width:90%;border:1px solid grey;padding:3px;margin:20px">&lt;head&gt;
+<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;title&gt;Page title&lt;/title&gt;
+</div>
+&lt;/head&gt;
+</div>
+<div style="width:90%;border:1px solid grey;padding:3px;margin:20px;">&lt;body&gt;
+<div style="width:90%;border:1px solid grey;padding:3px;margin:20px">
+<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;h1&gt;This is a heading&lt;/h1&gt;</div>
+<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;p&gt;This is a paragraph.&lt;/p&gt;</div>
+<div style="width:90%;border:1px solid grey;padding:5px;margin:20px">&lt;p&gt;This is another paragraph.&lt;/p&gt;</div>
+</div>
+&lt;/body&gt;
+</div>
+&lt;/html&gt;
+</div></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fcb8d8f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fcb8d8f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9b232f4" data-id="9b232f4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8b2fa7d elementor-widget elementor-widget-text-editor" data-id="8b2fa7d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><em><strong>หมายเหตุ:</strong>เนื้อหาภายในส่วน &lt;body&gt; (พื้นที่สีขาวด้านบน) จะแสดงในเบราว์เซอร์ เนื้อหาภายในองค์ประกอบ &lt;title&gt; จะแสดงในแถบชื่อเรื่องของเบราว์เซอร์หรือในแท็บของหน้า</em></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div><p>The post <a href="./../../../2022/01/06/html-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/index.html">HTML คืออะไร?</a> first appeared on <a href="./../../../index.html">Nutthaphat Piasangka</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/01/06/html-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
