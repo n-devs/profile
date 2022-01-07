@@ -12,8 +12,8 @@
 
 <channel>
 	<title>n-devs &#8211; Nutthaphat Piasangka</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://n-devs.web.app/author/n-devs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://n-devs.web.app</link>
 	<description>Just another Nutthaphat Piasangka site</description>
 	<lastBuildDate>Thu, 06 Jan 2022 23:21:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,21 +24,21 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2022/01/cropped-unnamed-32x32.webp</url>
+	<url>https://n-devs.web.app/wp-content/uploads/2022/01/cropped-unnamed-32x32.webp</url>
 	<title>n-devs &#8211; Nutthaphat Piasangka</title>
-	<link>./../../../index.html</link>
+	<link>https://n-devs.web.app</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>HTML คืออะไร?</title>
-		<link>./../../../2022/01/06/what-is-html/index.html</link>
+		<link>https://n-devs.web.app/2022/01/06/what-is-html/</link>
 		
 		<dc:creator><![CDATA[n-devs]]></dc:creator>
 		<pubDate>Thu, 06 Jan 2022 16:21:22 +0000</pubDate>
 				<category><![CDATA[html]]></category>
 		<category><![CDATA[code]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=886</guid>
+		<guid isPermaLink="false">https://n-devs.web.app/?p=886</guid>
 
 					<description><![CDATA[HTML ย่อมาจาก Hyper Text Markup Language HTML เป็นภาษามาร์กอัปมาตรฐานสำหรับการสร้างเว็บเพจ HTML อธิบายโครงสร้างของเว็บเพจ HTML ประกอบด้วยชุดขององค์ประกอบ องค์ประกอบ HTML บอกเบราว์เซอร์ถึงวิธีการแสดงเนื้อหา องค์ประกอบ HTML ติดป้ายกำกับชิ้นส่วนของเนื้อหา เช่น &#8220;นี่คือส่วนหัว&#8221; &#8220;นี่คือย่อหน้า&#8221; &#8220;นี่คือลิงก์&#8221; เป็นต้น ตัวอย่าง HTML...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="886" class="elementor elementor-886" data-elementor-settings="[]">

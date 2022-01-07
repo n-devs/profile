@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Contacts Creative (Elementor)	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://n-devs.web.app/contacts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://n-devs.web.app</link>
 	<description>Just another Nutthaphat Piasangka site</description>
 	<lastBuildDate>Thu, 06 Jan 2022 19:38:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

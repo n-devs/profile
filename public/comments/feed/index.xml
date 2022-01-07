@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments for Nutthaphat Piasangka	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://n-devs.web.app/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://n-devs.web.app</link>
 	<description>Just another Nutthaphat Piasangka site</description>
 	<lastBuildDate>Fri, 07 Jan 2022 00:21:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
